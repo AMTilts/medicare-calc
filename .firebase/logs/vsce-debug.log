@@ -1,0 +1,37 @@
+[debug] [2025-07-05T09:11:47.976Z] [Firebase Plugin] Activating Firebase extension.
+[debug] [2025-07-05T09:11:54.525Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-07-05T09:11:54.527Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-05T09:11:54.532Z] > authorizing via signed-in user (illusionarchitectmusic@gmail.com)
+[debug] [2025-07-05T09:11:54.541Z] No OAuth tokens found
+[debug] [2025-07-05T09:11:54.542Z] No OAuth tokens found
+[debug] [2025-07-05T09:11:54.544Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-05T09:11:54.544Z] > authorizing via signed-in user (illusionarchitectmusic@gmail.com)
+[debug] [2025-07-05T09:11:54.546Z] [Firebase Plugin] User found:  illusionarchitectmusic@gmail.com
+[info] [Firebase Plugin] (Core:Project) New user detected, fetching projects
+[debug] [2025-07-05T09:11:54.549Z] No OAuth tokens found
+[debug] [2025-07-05T09:11:54.554Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2025-07-05T09:11:54.659Z] [Firebase Plugin] VSCode notification server listening on port 40001
+[debug] [2025-07-05T09:11:56.132Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-07-05T09:11:56.133Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2025-07-05T09:13:02.698Z] [Firebase Plugin] Value of process.env.MONOSPACE_ENV: true
+[debug] [2025-07-05T09:13:02.699Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-07-05T09:13:02.700Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-05T09:13:02.701Z] > authorizing via signed-in user (illusionarchitectmusic@gmail.com)
+[debug] [2025-07-05T09:13:02.703Z] No OAuth tokens found
+[debug] [2025-07-05T09:13:02.704Z] [Firebase Plugin] User found:  illusionarchitectmusic@gmail.com
+[info] [Firebase Plugin] (Core:Project) New user detected, fetching projects
+[debug] [2025-07-05T09:13:02.705Z] No OAuth tokens found
+[debug] [2025-07-05T09:13:02.706Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2025-07-05T09:13:02.760Z] [Firebase Plugin] Value of process.env.MONOSPACE_ENV: true
+[debug] [2025-07-05T09:13:02.761Z] [Firebase Plugin] requireAuthWrapper
+[debug] [2025-07-05T09:13:02.762Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-05T09:13:02.762Z] > authorizing via signed-in user (illusionarchitectmusic@gmail.com)
+[debug] [2025-07-05T09:13:02.766Z] No OAuth tokens found
+[debug] [2025-07-05T09:13:02.766Z] [Firebase Plugin] User found:  illusionarchitectmusic@gmail.com
+[info] [Firebase Plugin] (Core:Project) New user detected, fetching projects
+[debug] [2025-07-05T09:13:02.768Z] No OAuth tokens found
+[debug] [2025-07-05T09:13:02.768Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2025-07-05T09:13:03.258Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-07-05T09:13:03.259Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2025-07-05T09:13:03.261Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-07-05T09:13:03.262Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
